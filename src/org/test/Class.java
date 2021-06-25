@@ -24,6 +24,6 @@ public class Class {
 			n.sendKeys("pnk");
 	s.findElement(By.id("pass")).sendKeys("123456");
 	
-
+s.quit();
 	}
 	}
